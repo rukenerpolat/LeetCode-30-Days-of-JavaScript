@@ -15,7 +15,7 @@ This repository contains answers to LeetCode 30 Days of JavaScript questions. Th
 </ul>
 <h4>Basic Array Transformations</h4>
 <ul>
-    <li>Day 5: Apply Transform Over Each Element in Array</li>
+    <li>Day 5: <a href="https://github.com/rukenerpolat/LeetCode-30-Days-of-JavaScript/blob/main/02-Basic%20Array%20Transformations/day-5-applyTransformOverEachElementInArray.js">Apply Transform Over Each Element in Array</a></li>
     <li>Day 6: Filter Elements from Array</li>
     <li>Day 7: Array Reduce Transformation</li>
 </ul>
